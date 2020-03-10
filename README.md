@@ -37,7 +37,7 @@ IDLE - Python 3.8.1 64-Bit
 
 2 actualizaciones a la fecha (9/03/2020)
 
-#Autor
+# Autor
 Julian Camacho - Estudiante del programa de Matematicas de la Escuela Colombiuana de Ingienria Julio Garavito
 
 
