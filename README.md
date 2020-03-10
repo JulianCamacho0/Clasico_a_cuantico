@@ -29,7 +29,7 @@ si dese editar el test del experimento de doble rendija.
 puede hacerlo teniendo en cuenta que la funcion le debe entrar tres caracteres en donde ***[1/2,1/2]*** corresponde a la probabilidad inicial, ***4*** el numero de blancos y ***2*** el numero de rendijas ademas que en el espacio de ***resultado*** debe colocar el resultado realizado por su autoridad.
 
 
-# Contruido
+# Construido
 
 IDLE - Python 3.8.1 64-Bit
 
